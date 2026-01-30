@@ -1,1 +1,1 @@
-https://github.com/Luis9Fabian/Polaris/blob/main/index.html
+https://luis9fabian.github.io/Polaris/
